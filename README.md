@@ -1,6 +1,8 @@
 # final-project-uni
 My final project for university, entitled 'Creation and Exploration of Informal Guidelines for Implementing RoboChart Models in ROS 2'.
 
+This repository includes the full project write up and the source code referenced.
+
 # Executive Summary
 Robots are increasingly being used in safety-critical applications, so it is more important than ever to ensure they behave correctly and safely. Modelling can be used to reason out and test behaviour before implementing it, which generally leads to better thought-out solutions. This means that robots should be safer and more consistent. An architect wouldn’t start making a building before designing it in detail, so why should a roboticist?
 
